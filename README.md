@@ -109,7 +109,6 @@ Statistics, Artificial Intelligence, Machine Learning, Optimization Algorithms, 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/saptadeepbiswas)
 - 🧠 [Google Scholar](https://scholar.google.com/citations?user=...)
-- 🐦 [Twitter](https://twitter.com/saptadeep_b) *(if applicable)*
 
 ---
 
